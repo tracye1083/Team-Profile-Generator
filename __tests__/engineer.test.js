@@ -16,7 +16,7 @@ describe('Engineer', () => {
     })
 
     describe('getRole', () => {
-        it('getRole() should return Engineer', () => {
+        it('getRole() should return "Engineer"', () => {
             const engineer = new Engineer();
             expect(engineer.getRole()).toEqual('Engineer');
         })
