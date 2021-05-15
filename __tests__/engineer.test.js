@@ -6,8 +6,8 @@ describe('Engineer', () => {
     })
 
     describe('github', () => {
-        it('should return a github URL via getGithub()', () => {
-            expect(engineer.getGithub()).toEqual('http://www.github.com/lovelace15')
+        it('should return a github username via getGithub()', () => {
+            expect(engineer.getGithub()).toEqual('lovelace15')
         })
 
         it('can set GitHub account via constructor', () => {
@@ -18,7 +18,6 @@ describe('Engineer', () => {
     describe('getRole', () => {
         it('getRole() should return Engineer', () => {
             const engineer = new Engineer();
-
             expect(engineer.getRole()).toEqual('Engineer');
         })
     })

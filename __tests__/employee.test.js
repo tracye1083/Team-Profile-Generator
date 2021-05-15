@@ -29,7 +29,7 @@ describe('Employee', () => {
         expect(employee.getEmail()).toEqual('ghopper@COBOL.net')
     })
 
-    it('getRole() should return Employee', () => {
+    it('getRole() should return "Employee"', () => {
         const employee = new Employee();
         expect(employee.getRole()).toEqual('Employee')
     })

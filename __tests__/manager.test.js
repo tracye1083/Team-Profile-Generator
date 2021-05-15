@@ -7,11 +7,11 @@ describe('Manager', () => {
     })
 
     describe('officeNumber', () => {
-        it('should set office number via constructor', () => {
+        it('Can set office number via constructor argument', () => {
             expect(manager.officeNumber).toEqual(42);
         })
 
-        it('getOfficeNumber should return an office number', () => {
+        it('Can get office number via getOfficeNumber()', () => {
             expect(manager.getOfficeNumber()).toEqual(42);
         })
     })
