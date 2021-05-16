@@ -22,6 +22,8 @@ The goal of this project was to create a Node.js command-line application, using
 
 - [GIF](#gif)
 
+- [Screenshot](#screenshot)
+
 - [Installation](#installation)
 
 - [Usage](#usage)
@@ -63,6 +65,12 @@ The goal of this project was to create a Node.js command-line application, using
 ## GIF
 
 ![Animated GIF of Application in Use](Team-Profile-Generator.gif)
+
+***
+
+## Screenshot
+
+![Screenshot of HTML Webpage](Screenshot.png)
 
 ***
 
