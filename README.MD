@@ -56,7 +56,7 @@ The goal of this project was to create a Node.js command-line application, using
 
 ## Link to Full Video
 
-[![Link to view Full Video of Application]()
+[![Link to view Full Video of Application](https://drive.google.com/file/d/12EayNTRcEaAzzwg1G8ecxocXsn2mLM3V/view)
 
 ***
 
