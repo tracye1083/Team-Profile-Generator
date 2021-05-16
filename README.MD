@@ -8,23 +8,7 @@ Tenth week's homework for UNH Full-Stack Web Development Boot Camp
 
 ## Description
 
-The goal of this project was to create a Node.js command-line application, using JavaScript with [Inquirer package](https://www.npmjs.com/package/inquirer), that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. Our main tasks were to ensure that:
-
-- When prompted for team members and their information, an HTML file is generated that displays a nicely formatted team roster based on user input.
-
-- When the user clicks on an e-mail address in the HTML, then the user's default e-mail program will open and populate the TO field of a new e-mail with the address.
-
-- When the user clicks on the Github username, the Github profile for that employee is opened in a new tab.
-
-- When the user starts the application, they are prompted to enter the team manager's name, ID, e-mail address and office number.
-
-- When the manager's info has been entered, then the user is provided with the option to choose to add either an engineer or an intern.
-
-- When the user selects the engineer option, they are prompted to enter the engineer's name, ID, e-mail address and Github username.
-
-- When the user selects the intern option, they are prompted to enter the intern's name, ID, e-mail address and current school.
-
-- When the user decides they're done, then the application is exited and the HTML page is generated.
+The goal of this project was to create a Node.js command-line application, using JavaScript with [Inquirer package](https://www.npmjs.com/package/inquirer), that the user provides information about employees who will be on a software engineering team. The application will automatically create a HTML webpage that displays directory informational summaries for each team member.
 
 ***
 
