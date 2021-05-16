@@ -21,10 +21,6 @@ section {
     margin: 1.5em;
 }
 
-.manager {
-    width: 100%;
-}
-
 .container {
     display: flex;
     flex-flow: row;
