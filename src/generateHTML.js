@@ -5,7 +5,7 @@ const generateTeam = team => {
             <section class='manager col-10 col-lg-3 m-3 p-0 shadow rounded-3'>
                 <div class='card' style='width: 18rem;'>
                     <div class='card-header pb-1 rounded-top'>
-                        ${manager.getName()}
+                        <h2>${manager.getName()}</h2>
                         <hr>
                         <h4><i class="fas fa-crown"></i> Manager</h4>
                     </div>
@@ -75,7 +75,7 @@ module.exports = team => {
 <body>
     <nav class='navbar mb-3 py-4'>
         <div class='container-fluid justify-content-center'>
-            <span class='navbar-brand mb-0'><h2><i class="fas fa-sitemap"></i> My Team <i class="fas fa-sitemap"></i></h2></span>
+            <span class='navbar-brand mb-0 text-light'><h1><i class="fas fa-sitemap"></i> My Team <i class="fas fa-sitemap"></i></h1></span>
         </div>
     </nav>
     <main>
