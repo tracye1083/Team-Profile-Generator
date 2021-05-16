@@ -62,7 +62,7 @@ The goal of this project was to create a Node.js command-line application, using
 
 ## GIF
 
-![Animated GIF of Application in Use](assets/Team-Profile-Generator.gif)
+![Animated GIF of Application in Use](Team-Profile-Generator.gif)
 
 ***
 
